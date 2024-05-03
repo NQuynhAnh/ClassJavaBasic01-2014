@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/BaiTap/BaiTap.iml" filepath="$PROJECT_DIR$/BaiTap/BaiTap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ClassJavaBasic01.iml" filepath="$PROJECT_DIR$/.idea/ClassJavaBasic01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Demo/Demo.iml" filepath="$PROJECT_DIR$/Demo/Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DemoBaiGiang/DemoBaiGiang.iml" filepath="$PROJECT_DIR$/DemoBaiGiang/DemoBaiGiang.iml" />
     </modules>
   </component>
 </project>
