@@ -1,7 +1,7 @@
 package Buoi2;
 
 public class Bien {
-    public static void main(String args){
+    public static void main(String[] args){
     //Khai bao bien
         String ten;
         float chieuCao;

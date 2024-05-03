@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class dienTichHinhChuNhat {
     //Viết chương trình tính diện tích hình chữ nhật
-    public static void main (String args){
+    public static void main (String[] args){
         Scanner sc = new Scanner(System.in);
         System.out.println("Nhập vào chiều dài hình chữ nhật: ");
         double chieuDai = sc.nextDouble();

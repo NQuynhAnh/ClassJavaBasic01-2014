@@ -1,7 +1,7 @@
 package Buoi2;
 
 public class ToanTuDieuKien {
-    public static void main(String args){
+    public static void main(String[] args){
         //Khai bao bien
         int a = 1;
         int b = 3;

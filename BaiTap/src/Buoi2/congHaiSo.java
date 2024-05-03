@@ -3,7 +3,7 @@ package Buoi2;
 import java.util.Scanner;
 
 public class congHaiSo {
-    public static void main(String args){
+    public static void main(String[] args){
         //Bạn hãy viết chương trình cộng hai số được nhập từ bàn phím người dùng, thực hiện phép tính cộng và in ra màn hình
         //Khai báo biến số là num1 và num2, tổng hai số là sum
         //Tổng hai số nguyên, bài tập là cộng hai số không nguyên
